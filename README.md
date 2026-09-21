@@ -1,2 +1,2 @@
 # Flowers-for-Her
-This was made for Made Bri
+This was made for Isis
